@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.exe
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.deps.json
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.dll
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\bin\Debug\netcoreapp3.1\05_Area de un cilindro.pdb
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.dll
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.pdb
+H:\PRG\1º\Practicas\TEORIA\04\05_Area de un cilindro\05_Area de un cilindro\obj\Debug\netcoreapp3.1\05_Area de un cilindro.genruntimeconfig.cache

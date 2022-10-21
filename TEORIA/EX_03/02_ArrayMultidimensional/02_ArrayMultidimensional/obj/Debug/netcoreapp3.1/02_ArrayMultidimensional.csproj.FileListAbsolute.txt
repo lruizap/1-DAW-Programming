@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.exe
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.deps.json
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.dll
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\bin\Debug\netcoreapp3.1\02_ArrayMultidimensional.pdb
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.dll
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.pdb
+H:\PRG\1º\Practicas\TEORIA\EX_03\02_ArrayMultidimensional\02_ArrayMultidimensional\obj\Debug\netcoreapp3.1\02_ArrayMultidimensional.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\PRG\Practicas\EXÁMENES\EX_02_Resuelto\Ex_02_Resuelto\Ex_02_Resuelto\obj\Debug\netcoreapp3.1\Ex_02_Resuelto.csproj.AssemblyReference.cache
+E:\PRG\Practicas\EXÁMENES\EX_02_Resuelto\Ex_02_Resuelto\Ex_02_Resuelto\obj\Debug\netcoreapp3.1\Ex_02_Resuelto.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\EXÁMENES\EX_02_Resuelto\Ex_02_Resuelto\Ex_02_Resuelto\obj\Debug\netcoreapp3.1\Ex_02_Resuelto.AssemblyInfoInputs.cache
+E:\PRG\Practicas\EXÁMENES\EX_02_Resuelto\Ex_02_Resuelto\Ex_02_Resuelto\obj\Debug\netcoreapp3.1\Ex_02_Resuelto.AssemblyInfo.cs
+E:\PRG\Practicas\EXÁMENES\EX_02_Resuelto\Ex_02_Resuelto\Ex_02_Resuelto\obj\Debug\netcoreapp3.1\Ex_02_Resuelto.csproj.CoreCompileInputs.cache

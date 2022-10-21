@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\bin\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.genruntimeconfig.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_13_notaEnTexto_LRZ\Funciones_13_notaEnTexto_LRZ\obj\Debug\netcoreapp3.1\Funciones_13_notaEnTexto_LRZ.csproj.AssemblyReference.cache

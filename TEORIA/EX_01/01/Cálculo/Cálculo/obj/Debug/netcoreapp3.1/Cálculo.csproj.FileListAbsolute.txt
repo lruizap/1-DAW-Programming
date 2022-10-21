@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\bin\Debug\netcoreapp3.1\Cálculo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo\Cálculo\obj\Debug\netcoreapp3.1\Cálculo.genruntimeconfig.cache

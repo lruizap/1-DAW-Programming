@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\bin\Debug\net6.0-windows\03_Calculadora.exe
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\bin\Debug\net6.0-windows\03_Calculadora.deps.json
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\bin\Debug\net6.0-windows\03_Calculadora.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\bin\Debug\net6.0-windows\03_Calculadora.dll
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\bin\Debug\net6.0-windows\03_Calculadora.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\_03_Calculadora.Form1.resources
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.dll
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\refint\03_Calculadora.dll
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\03_Calculadora.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\13_Visual\03_Calculadora\03_Calculadora\obj\Debug\net6.0-windows\ref\03_Calculadora.dll

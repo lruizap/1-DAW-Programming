@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EJ2_Lucas/1.0.0": {
+        "runtime": {
+          "EJ2_Lucas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJ2_Lucas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

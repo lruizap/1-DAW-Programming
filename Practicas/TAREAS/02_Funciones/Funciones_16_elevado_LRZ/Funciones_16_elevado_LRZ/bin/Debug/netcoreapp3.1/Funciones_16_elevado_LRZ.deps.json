@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funciones_16_elevado_LRZ/1.0.0": {
+        "runtime": {
+          "Funciones_16_elevado_LRZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funciones_16_elevado_LRZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

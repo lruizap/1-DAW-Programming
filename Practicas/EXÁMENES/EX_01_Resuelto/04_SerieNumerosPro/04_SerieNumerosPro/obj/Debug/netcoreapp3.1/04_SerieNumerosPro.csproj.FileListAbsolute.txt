@@ -1,0 +1,5 @@
+H:\PRG\1º\Practicas\EXÁMENES\EX_01_Resuelto\04_SerieNumerosPro\04_SerieNumerosPro\obj\Debug\netcoreapp3.1\04_SerieNumerosPro.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\EXÁMENES\EX_01_Resuelto\04_SerieNumerosPro\04_SerieNumerosPro\obj\Debug\netcoreapp3.1\04_SerieNumerosPro.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\EXÁMENES\EX_01_Resuelto\04_SerieNumerosPro\04_SerieNumerosPro\obj\Debug\netcoreapp3.1\04_SerieNumerosPro.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\EXÁMENES\EX_01_Resuelto\04_SerieNumerosPro\04_SerieNumerosPro\obj\Debug\netcoreapp3.1\04_SerieNumerosPro.AssemblyInfo.cs
+H:\PRG\1º\Practicas\EXÁMENES\EX_01_Resuelto\04_SerieNumerosPro\04_SerieNumerosPro\obj\Debug\netcoreapp3.1\04_SerieNumerosPro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\bin\Debug\net6.0-windows\02_GeneradorDados.exe
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\bin\Debug\net6.0-windows\02_GeneradorDados.deps.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\bin\Debug\net6.0-windows\02_GeneradorDados.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\bin\Debug\net6.0-windows\02_GeneradorDados.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\bin\Debug\net6.0-windows\02_GeneradorDados.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\_02_GeneradorDados.Form1.resources
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\refint\02_GeneradorDados.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\02_GeneradorDados.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\02_GeneradorDados\02_GeneradorDados\obj\Debug\net6.0-windows\ref\02_GeneradorDados.dll

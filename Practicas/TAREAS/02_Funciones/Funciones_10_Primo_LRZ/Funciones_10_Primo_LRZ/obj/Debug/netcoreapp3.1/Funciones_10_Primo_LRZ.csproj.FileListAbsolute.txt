@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\bin\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_10_Primo_LRZ\Funciones_10_Primo_LRZ\obj\Debug\netcoreapp3.1\Funciones_10_Primo_LRZ.genruntimeconfig.cache

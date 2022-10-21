@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "04_Visual/1.0.0": {
+        "dependencies": {
+          "ObjectListView.Official": "2.9.1"
+        },
+        "runtime": {
+          "04_Visual.dll": {}
+        }
+      },
+      "ObjectListView.Official/2.9.1": {
+        "runtime": {
+          "lib/net20/ObjectListView.dll": {
+            "assemblyVersion": "2.9.1.1072",
+            "fileVersion": "2.9.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04_Visual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectListView.Official/2.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IDUTb8DfL7DlFHWoS6B7N3D8rkajdsgQIhwvWp8I6NX5wZH7euu9U+cVoYsT6KJbA9Mmo7dxjbgHnB7nETE5XQ==",
+      "path": "objectlistview.official/2.9.1",
+      "hashPath": "objectlistview.official.2.9.1.nupkg.sha512"
+    }
+  }
+}

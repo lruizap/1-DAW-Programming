@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.exe
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.deps.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.runtimeconfig.dev.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\bin\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\05_Dinero_Y_Moneda\05_Dinero_Y_Moneda\obj\Debug\netcoreapp3.1\05_Dinero_Y_Moneda.genruntimeconfig.cache

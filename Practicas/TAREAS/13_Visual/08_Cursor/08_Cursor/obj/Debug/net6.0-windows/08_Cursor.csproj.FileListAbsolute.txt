@@ -1,0 +1,17 @@
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\bin\Debug\net6.0-windows\08_Cursor.exe
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\bin\Debug\net6.0-windows\08_Cursor.deps.json
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\bin\Debug\net6.0-windows\08_Cursor.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\bin\Debug\net6.0-windows\08_Cursor.dll
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\bin\Debug\net6.0-windows\08_Cursor.pdb
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\_08_Cursor.Form1.resources
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.csproj.GenerateResource.cache
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.dll
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\refint\08_Cursor.dll
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.pdb
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\08_Cursor.genruntimeconfig.cache
+E:\PRG\Practicas\TAREAS\13_Visual\08_Cursor\08_Cursor\obj\Debug\net6.0-windows\ref\08_Cursor.dll

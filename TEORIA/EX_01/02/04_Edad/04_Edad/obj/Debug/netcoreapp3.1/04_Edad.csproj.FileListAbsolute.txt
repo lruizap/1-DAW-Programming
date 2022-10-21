@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\bin\Debug\netcoreapp3.1\04_Edad.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\04_Edad\04_Edad\obj\Debug\netcoreapp3.1\04_Edad.genruntimeconfig.cache

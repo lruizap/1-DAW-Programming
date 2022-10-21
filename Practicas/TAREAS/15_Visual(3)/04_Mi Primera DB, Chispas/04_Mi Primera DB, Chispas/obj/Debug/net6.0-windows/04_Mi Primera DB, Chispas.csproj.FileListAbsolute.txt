@@ -1,0 +1,25 @@
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\04_Mi Primera DB, Chispas.exe
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\04_Mi Primera DB, Chispas.deps.json
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\04_Mi Primera DB, Chispas.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\04_Mi Primera DB, Chispas.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\04_Mi Primera DB, Chispas.pdb
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\_04_Mi_Primera_DB__Chispas.Añadir.resources
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\_04_Mi_Primera_DB__Chispas.Form1.resources
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\_04_Mi_Primera_DB__Chispas.Properties.Resources.resources
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.csproj.GenerateResource.cache
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.csproj.CopyComplete
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\refint\04_Mi Primera DB, Chispas.dll
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.pdb
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\04_Mi Primera DB, Chispas.genruntimeconfig.cache
+E:\PRG\Practicas\TAREAS\15_Visual(3)\04_Mi Primera DB, Chispas\04_Mi Primera DB, Chispas\obj\Debug\net6.0-windows\ref\04_Mi Primera DB, Chispas.dll

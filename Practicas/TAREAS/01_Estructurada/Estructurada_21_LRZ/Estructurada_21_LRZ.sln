@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructurada_21_LRZ", "Estructurada_21_LRZ\Estructurada_21_LRZ.csproj", "{EA5DAA4B-492A-4079-901C-D5DD06D66A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estructurada_20_LRZ", "..\Estructurada_20_LRZ\Estructurada_20_LRZ.csproj", "{004D01EA-1825-4327-8200-8209C2ADC1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5DAA4B-492A-4079-901C-D5DD06D66A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5DAA4B-492A-4079-901C-D5DD06D66A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5DAA4B-492A-4079-901C-D5DD06D66A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5DAA4B-492A-4079-901C-D5DD06D66A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004D01EA-1825-4327-8200-8209C2ADC1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004D01EA-1825-4327-8200-8209C2ADC1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004D01EA-1825-4327-8200-8209C2ADC1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004D01EA-1825-4327-8200-8209C2ADC1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EE7F6A-CF43-4E8C-9D7D-202BE02A5FE2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\bin\Debug\netcoreapp3.1\06_Condición.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\06_Condición\06_Condición\obj\Debug\netcoreapp3.1\06_Condición.genruntimeconfig.cache

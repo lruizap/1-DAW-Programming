@@ -1,0 +1,14 @@
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.exe
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.deps.json
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.runtimeconfig.json
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.runtimeconfig.dev.json
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.dll
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\bin\Debug\netcoreapp3.1\02_Static.pdb
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.AssemblyInfo.cs
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.dll
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.pdb
+E:\PRG\Practicas\TEORIA\EX_04\02_Static\02_Static\obj\Debug\netcoreapp3.1\02_Static.genruntimeconfig.cache

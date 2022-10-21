@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.exe
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.deps.json
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.dll
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\bin\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.pdb
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.dll
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.pdb
+H:\PRG\Practicas\TEORIA\EX_04\03_Herencia_Y_Objetos\03_Herencia_Y_Objetos\obj\Debug\netcoreapp3.1\03_Herencia_Y_Objetos.genruntimeconfig.cache

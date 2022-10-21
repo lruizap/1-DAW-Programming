@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.exe
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.deps.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.dll
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\bin\Debug\netcoreapp3.1\02_Online.pdb
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.dll
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.pdb
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\02_Online\02_Online\obj\Debug\netcoreapp3.1\02_Online.genruntimeconfig.cache

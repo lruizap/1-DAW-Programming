@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\bin\Debug\netcoreapp3.1\Estructurada_09_LRZ.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_09_LRZ\Estructurada_09_LRZ\obj\Debug\netcoreapp3.1\Estructurada_09_LRZ.genruntimeconfig.cache

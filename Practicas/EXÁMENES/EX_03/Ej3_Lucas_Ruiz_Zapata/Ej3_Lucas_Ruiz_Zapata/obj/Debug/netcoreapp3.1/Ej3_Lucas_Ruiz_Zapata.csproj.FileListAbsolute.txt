@@ -1,0 +1,14 @@
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.exe
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.deps.json
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.runtimeconfig.json
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.runtimeconfig.dev.json
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.dll
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\bin\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.pdb
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.csproj.AssemblyReference.cache
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.AssemblyInfoInputs.cache
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.AssemblyInfo.cs
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.dll
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.pdb
+H:\PRG\Practicas\EXÁMENES\EX_03\Ej3_Lucas_Ruiz_Zapata\Ej3_Lucas_Ruiz_Zapata\obj\Debug\netcoreapp3.1\Ej3_Lucas_Ruiz_Zapata.genruntimeconfig.cache

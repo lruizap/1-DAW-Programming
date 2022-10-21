@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "05_Area de un cilindro/1.0.0": {
+        "runtime": {
+          "05_Area de un cilindro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05_Area de un cilindro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

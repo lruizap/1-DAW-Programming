@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aprobado  Suspenso/1.0.0": {
+        "runtime": {
+          "Aprobado  Suspenso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprobado  Suspenso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

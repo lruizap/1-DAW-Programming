@@ -1,0 +1,34 @@
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.exe
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.deps.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\_08_Bloc_De_Notas.Form1.resources
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\refint\08_Bloc De Notas.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\ref\08_Bloc De Notas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.exe
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.deps.json
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\bin\Debug\net6.0-windows\08_Bloc De Notas.pdb
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\_08_Bloc_De_Notas.Form1.resources
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.GenerateResource.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\refint\08_Bloc De Notas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.pdb
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\08_Bloc De Notas.genruntimeconfig.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\08_Bloc De Notas\08_Bloc De Notas\obj\Debug\net6.0-windows\ref\08_Bloc De Notas.dll

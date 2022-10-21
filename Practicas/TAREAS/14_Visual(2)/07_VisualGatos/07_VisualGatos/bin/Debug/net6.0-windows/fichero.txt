@@ -1,0 +1,6 @@
+Nombre del Gato;Color del Pelo;Raza del gato;Peso del gato;Tamaño del gato;Color de los ojos
+gato1;gris;persa;4,2kg;30cm;azules
+gato2;naranja y negro;bengala;4kg;40cm;negros
+gato3;blanco;Gato himalayo;3kg;30cm;azul
+gato4;blanco y negro;Munchkin;2,5kg;20cm;verde
+gato5;blanco y gris;Sagrado de Birmania;3kg;25cm;azul

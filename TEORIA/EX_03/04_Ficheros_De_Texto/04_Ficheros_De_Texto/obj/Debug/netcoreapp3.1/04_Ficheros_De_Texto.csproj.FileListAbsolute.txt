@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.exe
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.deps.json
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.dll
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\bin\Debug\netcoreapp3.1\04_Ficheros_De_Texto.pdb
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.dll
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.pdb
+H:\PRG\Practicas\TEORIA\EX_03\04_Ficheros_De_Texto\04_Ficheros_De_Texto\obj\Debug\netcoreapp3.1\04_Ficheros_De_Texto.genruntimeconfig.cache

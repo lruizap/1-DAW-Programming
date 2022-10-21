@@ -1,0 +1,14 @@
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.exe
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.deps.json
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.runtimeconfig.json
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.runtimeconfig.dev.json
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.dll
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\bin\Debug\netcoreapp3.1\Pirámide.pdb
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.csproj.AssemblyReference.cache
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.AssemblyInfoInputs.cache
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.AssemblyInfo.cs
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.csproj.CoreCompileInputs.cache
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.dll
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.pdb
+D:\PRG\1º\Practicas\Figuras Geométricas\Pirámide\Pirámide\obj\Debug\netcoreapp3.1\Pirámide.genruntimeconfig.cache

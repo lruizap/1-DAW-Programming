@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\bin\Debug\net6.0-windows\03_MultiConversor.exe
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\bin\Debug\net6.0-windows\03_MultiConversor.deps.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\bin\Debug\net6.0-windows\03_MultiConversor.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\bin\Debug\net6.0-windows\03_MultiConversor.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\bin\Debug\net6.0-windows\03_MultiConversor.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\_03_MultiConversor.Form1.resources
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\refint\03_MultiConversor.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\03_MultiConversor.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\03_MultiConversor\03_MultiConversor\obj\Debug\net6.0-windows\ref\03_MultiConversor.dll

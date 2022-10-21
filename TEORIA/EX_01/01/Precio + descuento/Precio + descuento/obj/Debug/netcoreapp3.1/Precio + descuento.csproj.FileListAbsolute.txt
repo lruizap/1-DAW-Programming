@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\bin\Debug\netcoreapp3.1\Precio + descuento.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Precio + descuento\Precio + descuento\obj\Debug\netcoreapp3.1\Precio + descuento.genruntimeconfig.cache

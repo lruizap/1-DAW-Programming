@@ -1,0 +1,14 @@
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.exe
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.deps.json
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.runtimeconfig.dev.json
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.dll
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\bin\Debug\netcoreapp3.1\08_Hora.pdb
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.dll
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.pdb
+E:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\08_Hora\08_Hora\obj\Debug\netcoreapp3.1\08_Hora.genruntimeconfig.cache

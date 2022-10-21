@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\_06_LeeListaCSV.Form1.resources
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\bin\Debug\net6.0-windows\06_LeeListaCSV.exe
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\bin\Debug\net6.0-windows\06_LeeListaCSV.deps.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\bin\Debug\net6.0-windows\06_LeeListaCSV.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\bin\Debug\net6.0-windows\06_LeeListaCSV.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\bin\Debug\net6.0-windows\06_LeeListaCSV.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\refint\06_LeeListaCSV.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\06_LeeListaCSV.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\06_LeeListaCSV\06_LeeListaCSV\obj\Debug\net6.0-windows\ref\06_LeeListaCSV.dll

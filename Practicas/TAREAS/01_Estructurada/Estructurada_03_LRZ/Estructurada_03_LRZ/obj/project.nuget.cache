@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1y2wsTZO4uLws0TNC/HpYrWDqx808VtqbdPMIbTfsMiBXNp24Y/FuEizJ7KZArkmNwi6YMo8M0JTAb33AecLqQ==",
+  "success": true,
+  "projectFilePath": "H:\\PRG\\Practicas\\TAREAS\\01_Estructurada\\Estructurada_03_LRZ\\Estructurada_03_LRZ\\Estructurada_03_LRZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

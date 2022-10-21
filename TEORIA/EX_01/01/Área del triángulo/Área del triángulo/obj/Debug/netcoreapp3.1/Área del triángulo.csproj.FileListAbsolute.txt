@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\bin\Debug\netcoreapp3.1\Área del triángulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área del triángulo\Área del triángulo\obj\Debug\netcoreapp3.1\Área del triángulo.genruntimeconfig.cache

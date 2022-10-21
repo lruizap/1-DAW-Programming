@@ -1,0 +1,14 @@
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.exe
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.deps.json
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.runtimeconfig.json
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.runtimeconfig.dev.json
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.dll
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\bin\Debug\netcoreapp3.1\EX_03_Resuelto.pdb
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.csproj.AssemblyReference.cache
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.AssemblyInfoInputs.cache
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.AssemblyInfo.cs
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.dll
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.pdb
+H:\PRG\Practicas\EXÁMENES\EX_03_Resuelto\EX_03_Resuelto\obj\Debug\netcoreapp3.1\EX_03_Resuelto.genruntimeconfig.cache

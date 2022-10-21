@@ -1,0 +1,14 @@
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.exe
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.deps.json
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.runtimeconfig.dev.json
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.dll
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\bin\Debug\netcoreapp3.1\AdicionalesFicheros.pdb
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.dll
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.pdb
+E:\PRG\Practicas\TAREAS\11_Ficheros\Adicionales Ficheros\AdicionalesFicheros\AdicionalesFicheros\obj\Debug\netcoreapp3.1\AdicionalesFicheros.genruntimeconfig.cache

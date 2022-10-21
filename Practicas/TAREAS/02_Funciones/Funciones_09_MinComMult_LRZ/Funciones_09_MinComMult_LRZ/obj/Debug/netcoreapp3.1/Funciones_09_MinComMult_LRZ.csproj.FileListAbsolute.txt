@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\bin\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_09_MinComMult_LRZ\Funciones_09_MinComMult_LRZ\obj\Debug\netcoreapp3.1\Funciones_09_MinComMult_LRZ.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\bin\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_11_areaTriangulo_LRZ\Funciones_11_areaTriangulo_LRZ\obj\Debug\netcoreapp3.1\Funciones_11_areaTriangulo_LRZ.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De pies y pulgadas a centimetros", "De pies y pulgadas a centimetros\De pies y pulgadas a centimetros.csproj", "{182859DD-FB32-4A50-89CC-146E5253394F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182859DD-FB32-4A50-89CC-146E5253394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182859DD-FB32-4A50-89CC-146E5253394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182859DD-FB32-4A50-89CC-146E5253394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182859DD-FB32-4A50-89CC-146E5253394F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B67C1D-F8C2-483C-91B8-E636E3062560}
+	EndGlobalSection
+EndGlobal

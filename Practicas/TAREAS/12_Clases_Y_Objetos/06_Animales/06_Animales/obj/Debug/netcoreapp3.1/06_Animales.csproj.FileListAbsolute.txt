@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.exe
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.deps.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.runtimeconfig.dev.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\bin\Debug\netcoreapp3.1\06_Animales.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\06_Animales\06_Animales\obj\Debug\netcoreapp3.1\06_Animales.genruntimeconfig.cache

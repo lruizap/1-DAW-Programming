@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYEyPCS5etw3suzG6WFb0o922sqziI5qQ/18Nab7F93dnJtEIAoCo8/ysdDu713RPCG/dZDhH5El7Gm5FH6uVQ==",
+  "success": true,
+  "projectFilePath": "E:\\PRG\\Practicas\\TAREAS\\15_Visual(3)\\04_Mi Primera DB, Chispas\\04_Mi Primera DB, Chispas\\04_Mi Primera DB, Chispas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}

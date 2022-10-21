@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones_02_Bisiesto_LRZ", "Funciones_02_Bisiesto_LRZ\Funciones_02_Bisiesto_LRZ.csproj", "{436B5A28-8077-41BF-8372-E02D36E7F05E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_booleanfuncion", "..\..\..\TEORIA\04\07_booleanfuncion\07_booleanfuncion\07_booleanfuncion.csproj", "{8AEA538E-BCE9-49AF-A043-E700D4207DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436B5A28-8077-41BF-8372-E02D36E7F05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B5A28-8077-41BF-8372-E02D36E7F05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B5A28-8077-41BF-8372-E02D36E7F05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B5A28-8077-41BF-8372-E02D36E7F05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEA538E-BCE9-49AF-A043-E700D4207DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEA538E-BCE9-49AF-A043-E700D4207DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEA538E-BCE9-49AF-A043-E700D4207DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEA538E-BCE9-49AF-A043-E700D4207DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05A94C5-BF5F-43C8-94EB-A94B2BA558AB}
+	EndGlobalSection
+EndGlobal

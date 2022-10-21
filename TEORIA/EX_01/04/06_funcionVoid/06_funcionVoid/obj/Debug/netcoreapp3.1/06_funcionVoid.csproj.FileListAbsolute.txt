@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.exe
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.deps.json
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.dll
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\bin\Debug\netcoreapp3.1\06_funcionVoid.pdb
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.dll
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.pdb
+H:\PRG\1º\Practicas\TEORIA\04\06_funcionVoid\06_funcionVoid\obj\Debug\netcoreapp3.1\06_funcionVoid.genruntimeconfig.cache

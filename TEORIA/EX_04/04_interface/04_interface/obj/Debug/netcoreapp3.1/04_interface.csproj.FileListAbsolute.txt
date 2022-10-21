@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.exe
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.deps.json
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.dll
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\bin\Debug\netcoreapp3.1\04_interface.pdb
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.dll
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.pdb
+H:\PRG\Practicas\TEORIA\EX_04\04_interface\04_interface\obj\Debug\netcoreapp3.1\04_interface.genruntimeconfig.cache

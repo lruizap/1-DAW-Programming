@@ -1,0 +1,17 @@
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\bin\Debug\net6.0-windows\05_GeneradorTitulosPelículas.exe
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\bin\Debug\net6.0-windows\05_GeneradorTitulosPelículas.deps.json
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\bin\Debug\net6.0-windows\05_GeneradorTitulosPelículas.runtimeconfig.json
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\bin\Debug\net6.0-windows\05_GeneradorTitulosPelículas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\bin\Debug\net6.0-windows\05_GeneradorTitulosPelículas.pdb
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.csproj.AssemblyReference.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\_05_GeneradorTitulosPelículas.Form1.resources
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.csproj.GenerateResource.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.AssemblyInfo.cs
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\refint\05_GeneradorTitulosPelículas.dll
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.pdb
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\05_GeneradorTitulosPelículas.genruntimeconfig.cache
+E:\PRG\Practicas\TAREAS\14_Visual(2)\05_GeneradorTitulosPelículas\05_GeneradorTitulosPelículas\obj\Debug\net6.0-windows\ref\05_GeneradorTitulosPelículas.dll

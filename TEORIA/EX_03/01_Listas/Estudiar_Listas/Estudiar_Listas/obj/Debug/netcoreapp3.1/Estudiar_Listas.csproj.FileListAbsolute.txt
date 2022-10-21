@@ -1,0 +1,13 @@
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.AssemblyInfoInputs.cache
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.AssemblyInfo.cs
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.csproj.CoreCompileInputs.cache
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.exe
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.deps.json
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.runtimeconfig.json
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.runtimeconfig.dev.json
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.dll
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\bin\Debug\netcoreapp3.1\Estudiar_Listas.pdb
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.dll
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.pdb
+E:\PRG\Practicas\TEORIA\EX_03\01_Listas\Estudiar_Listas\Estudiar_Listas\obj\Debug\netcoreapp3.1\Estudiar_Listas.genruntimeconfig.cache

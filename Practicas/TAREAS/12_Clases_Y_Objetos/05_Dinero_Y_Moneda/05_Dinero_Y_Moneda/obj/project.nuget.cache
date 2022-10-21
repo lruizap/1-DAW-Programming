@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Qqv0c4FonbMOaQT44zt45v/bOHs+O2X5vJoDvA2Kaz9223wWQzABxKpl87mgtUHsdAKlKYEEwXp0g4GJpVIsA==",
+  "success": true,
+  "projectFilePath": "H:\\PRG\\Practicas\\TAREAS\\12_Clases_Y_Objetos\\05_Dinero_Y_Moneda\\05_Dinero_Y_Moneda\\05_Dinero_Y_Moneda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

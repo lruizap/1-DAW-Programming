@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\bin\Debug\net6.0-windows\04_Adivino.exe
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\bin\Debug\net6.0-windows\04_Adivino.deps.json
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\bin\Debug\net6.0-windows\04_Adivino.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\bin\Debug\net6.0-windows\04_Adivino.dll
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\bin\Debug\net6.0-windows\04_Adivino.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\_04_Adivino.Form1.resources
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.dll
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\refint\04_Adivino.dll
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\04_Adivino.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\13_Visual\04_Adivino\04_Adivino\obj\Debug\net6.0-windows\ref\04_Adivino.dll

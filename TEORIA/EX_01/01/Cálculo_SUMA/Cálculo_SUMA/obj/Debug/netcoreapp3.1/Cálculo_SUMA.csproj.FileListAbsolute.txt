@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\bin\Debug\netcoreapp3.1\Cálculo_SUMA.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Cálculo_SUMA\Cálculo_SUMA\obj\Debug\netcoreapp3.1\Cálculo_SUMA.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\bin\Debug\net6.0-windows\01_PruebaFiltros.exe
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\bin\Debug\net6.0-windows\01_PruebaFiltros.deps.json
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\bin\Debug\net6.0-windows\01_PruebaFiltros.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\bin\Debug\net6.0-windows\01_PruebaFiltros.dll
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\bin\Debug\net6.0-windows\01_PruebaFiltros.pdb
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\_01_PruebaFiltros.Form1.resources
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.dll
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\refint\01_PruebaFiltros.dll
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.pdb
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\01_PruebaFiltros.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\15_Visual(3)\01_PruebaFiltros\01_PruebaFiltros\obj\Debug\net6.0-windows\ref\01_PruebaFiltros.dll

@@ -1,0 +1,10 @@
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe.config
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Form1.resources
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Properties.Resources.resources
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\EjerciciosC#\Ejercicio12\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.pdb

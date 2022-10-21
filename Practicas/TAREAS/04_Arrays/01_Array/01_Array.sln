@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Array", "01_Array\01_Array.csproj", "{9B4AD0F0-D4E5-412B-86DD-AC0E754DA06B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_menú", "..\..\..\TEORIA\EX_02\02_menú\02_menú\02_menú.csproj", "{BE3C2311-C018-48AA-BEDD-B5143052BF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4AD0F0-D4E5-412B-86DD-AC0E754DA06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4AD0F0-D4E5-412B-86DD-AC0E754DA06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4AD0F0-D4E5-412B-86DD-AC0E754DA06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4AD0F0-D4E5-412B-86DD-AC0E754DA06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3C2311-C018-48AA-BEDD-B5143052BF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3C2311-C018-48AA-BEDD-B5143052BF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3C2311-C018-48AA-BEDD-B5143052BF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3C2311-C018-48AA-BEDD-B5143052BF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA314004-3B6B-4E65-A907-839B596CF32B}
+	EndGlobalSection
+EndGlobal

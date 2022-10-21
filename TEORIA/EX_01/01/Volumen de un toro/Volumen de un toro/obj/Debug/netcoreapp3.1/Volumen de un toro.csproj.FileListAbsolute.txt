@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\bin\Debug\netcoreapp3.1\Volumen de un toro.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Volumen de un toro\Volumen de un toro\obj\Debug\netcoreapp3.1\Volumen de un toro.genruntimeconfig.cache

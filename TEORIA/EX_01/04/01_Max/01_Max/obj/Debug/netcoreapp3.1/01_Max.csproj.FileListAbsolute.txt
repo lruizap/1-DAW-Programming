@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.exe
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.deps.json
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.dll
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\bin\Debug\netcoreapp3.1\01_Max.pdb
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.dll
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.pdb
+H:\PRG\1º\Practicas\TEORIA\04\01_Max\01_Max\obj\Debug\netcoreapp3.1\01_Max.genruntimeconfig.cache

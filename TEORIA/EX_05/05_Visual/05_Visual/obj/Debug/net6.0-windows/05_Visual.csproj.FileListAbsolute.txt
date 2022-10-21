@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\bin\Debug\net6.0-windows\05_Visual.exe
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\bin\Debug\net6.0-windows\05_Visual.deps.json
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\bin\Debug\net6.0-windows\05_Visual.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\bin\Debug\net6.0-windows\05_Visual.dll
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\bin\Debug\net6.0-windows\05_Visual.pdb
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\_05_Visual.Form1.resources
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.csproj.GenerateResource.cache
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.dll
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\refint\05_Visual.dll
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.pdb
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\05_Visual.genruntimeconfig.cache
+H:\PRG\Practicas\TEORIA\EX_05\05_Visual\05_Visual\obj\Debug\net6.0-windows\ref\05_Visual.dll

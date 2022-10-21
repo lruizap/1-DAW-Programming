@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\bin\Debug\netcoreapp3.1\Estructurada_41_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\01_Estructurada\Estructurada_41_LRZ\Estructurada_41_LRZ\obj\Debug\netcoreapp3.1\Estructurada_41_LRZ.genruntimeconfig.cache

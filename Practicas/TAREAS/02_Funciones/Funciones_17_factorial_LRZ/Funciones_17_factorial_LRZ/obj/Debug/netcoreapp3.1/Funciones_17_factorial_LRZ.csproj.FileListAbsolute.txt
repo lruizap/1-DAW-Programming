@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\bin\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ\obj\Debug\netcoreapp3.1\Funciones_17_factorial_LRZ.genruntimeconfig.cache

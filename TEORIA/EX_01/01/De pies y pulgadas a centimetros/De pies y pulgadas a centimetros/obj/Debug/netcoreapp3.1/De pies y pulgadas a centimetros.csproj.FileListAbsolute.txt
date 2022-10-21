@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.exe
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.deps.json
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.runtimeconfig.json
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.dll
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\bin\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.pdb
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.dll
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.pdb
+C:\Users\Lucas\source\repos\De pies y pulgadas a centimetros\De pies y pulgadas a centimetros\obj\Debug\netcoreapp3.1\De pies y pulgadas a centimetros.genruntimeconfig.cache

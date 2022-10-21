@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones_17_factorial_LRZ", "Funciones_17_factorial_LRZ\Funciones_17_factorial_LRZ.csproj", "{753DE959-08A4-45A8-ACD1-4AEDD19168E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estructurada_22_LRZ", "..\..\01_Estructurada\Estructurada_22_LRZ\Estructurada_22_LRZ\Estructurada_22_LRZ.csproj", "{6050BE79-F6DF-4DD4-813F-905F9CEF266A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753DE959-08A4-45A8-ACD1-4AEDD19168E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753DE959-08A4-45A8-ACD1-4AEDD19168E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753DE959-08A4-45A8-ACD1-4AEDD19168E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753DE959-08A4-45A8-ACD1-4AEDD19168E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6050BE79-F6DF-4DD4-813F-905F9CEF266A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6050BE79-F6DF-4DD4-813F-905F9CEF266A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6050BE79-F6DF-4DD4-813F-905F9CEF266A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6050BE79-F6DF-4DD4-813F-905F9CEF266A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FAAE85-694E-477D-9846-123D2AA3BE13}
+	EndGlobalSection
+EndGlobal

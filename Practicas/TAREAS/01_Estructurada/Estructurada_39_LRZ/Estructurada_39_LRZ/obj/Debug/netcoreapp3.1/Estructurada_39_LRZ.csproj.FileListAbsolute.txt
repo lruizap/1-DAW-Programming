@@ -1,0 +1,13 @@
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.exe
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.deps.json
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.runtimeconfig.json
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.runtimeconfig.dev.json
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.dll
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\bin\Debug\netcoreapp3.1\Estructurada_39_LRZ.pdb
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.AssemblyInfoInputs.cache
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.AssemblyInfo.cs
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.csproj.CoreCompileInputs.cache
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.dll
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.pdb
+D:\PRG\1º\Practicas\TAREAS\Estructurada_39_LRZ\Estructurada_39_LRZ\obj\Debug\netcoreapp3.1\Estructurada_39_LRZ.genruntimeconfig.cache

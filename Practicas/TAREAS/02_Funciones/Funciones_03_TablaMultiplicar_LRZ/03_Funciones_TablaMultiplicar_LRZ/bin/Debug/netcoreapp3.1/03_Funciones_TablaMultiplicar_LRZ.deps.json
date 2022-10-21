@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "03_Funciones_TablaMultiplicar_LRZ/1.0.0": {
+        "runtime": {
+          "03_Funciones_TablaMultiplicar_LRZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03_Funciones_TablaMultiplicar_LRZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

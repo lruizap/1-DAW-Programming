@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\bin\Debug\netcoreapp3.1\Perímetro de un rectángulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Perímetro de un rectángulo\Perímetro de un rectángulo\obj\Debug\netcoreapp3.1\Perímetro de un rectángulo.genruntimeconfig.cache

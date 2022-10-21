@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.exe
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.deps.json
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.runtimeconfig.json
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.dll
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\bin\Debug\netcoreapp3.1\El número mágico.pdb
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.dll
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.pdb
+C:\Users\Lucas\source\repos\El número mágico\El número mágico\obj\Debug\netcoreapp3.1\El número mágico.genruntimeconfig.cache

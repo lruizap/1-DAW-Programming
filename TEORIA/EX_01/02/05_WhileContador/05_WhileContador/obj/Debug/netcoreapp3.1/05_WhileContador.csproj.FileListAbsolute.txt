@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\bin\Debug\netcoreapp3.1\05_WhileContador.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_WhileContador\05_WhileContador\obj\Debug\netcoreapp3.1\05_WhileContador.genruntimeconfig.cache

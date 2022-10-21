@@ -1,0 +1,38 @@
+ROMBOIDE
+int j, i;
+
+            for (j = 0; j <= h-1; j++)
+            {
+                Console.WriteLine();
+                for (i = 1; i < h - j; i++)
+                {
+                    Console.Write(" ");
+                }
+                for (i = 0; i <= b - 1; i++)
+                {
+                    Console.Write("x");
+                }
+            }
+
+
+
+
+TRIANGULO
+
+ int x, y;
+            Console.Write(" ");
+            Console.WriteLine();
+            for (x = 1; x <= h; x++)
+            {
+                for (y = h - x; y > 0; y--)
+                {
+                    Console.Write(" ");
+                }
+                for (y = 1; y < x; y++)
+                {
+                    Console.Write("**");
+                }
+                
+                Console.Write("*");
+                Console.WriteLine();
+            }

@@ -1,0 +1,14 @@
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.exe
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.deps.json
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.runtimeconfig.json
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.runtimeconfig.dev.json
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.dll
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\bin\Debug\netcoreapp3.1\07_Adicionales.pdb
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.csproj.AssemblyReference.cache
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.AssemblyInfoInputs.cache
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.AssemblyInfo.cs
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.csproj.CoreCompileInputs.cache
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.dll
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.pdb
+E:\PRG\1º\Practicas\TAREAS\07_Adicionales\07_Adicionales\obj\Debug\netcoreapp3.1\07_Adicionales.genruntimeconfig.cache

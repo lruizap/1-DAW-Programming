@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.exe
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.deps.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.runtimeconfig.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\bin\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.dll
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.pdb
+H:\PRG\1º\Practicas\TAREAS\02_Funciones\Funciones_05_Signo_LRZ\Funciones_05_Signo_LRZ\obj\Debug\netcoreapp3.1\Funciones_05_Signo_LRZ.genruntimeconfig.cache

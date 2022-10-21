@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Max", "01_Max\01_Max.csproj", "{06F8089A-7583-48FA-99CA-E4098B292265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructurada_20_LRZ", "..\..\..\TAREAS\Estructurada_20_LRZ\Estructurada_20_LRZ.csproj", "{589FB575-9DEE-46AD-80D2-FBF92ED9CCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F8089A-7583-48FA-99CA-E4098B292265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F8089A-7583-48FA-99CA-E4098B292265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F8089A-7583-48FA-99CA-E4098B292265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F8089A-7583-48FA-99CA-E4098B292265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589FB575-9DEE-46AD-80D2-FBF92ED9CCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589FB575-9DEE-46AD-80D2-FBF92ED9CCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589FB575-9DEE-46AD-80D2-FBF92ED9CCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589FB575-9DEE-46AD-80D2-FBF92ED9CCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0650A39-B451-4573-924C-D27EC1CC42B7}
+	EndGlobalSection
+EndGlobal

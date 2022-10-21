@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\bin\Debug\netcoreapp3.1\Área de un circulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Área de un circulo\Área de un circulo\obj\Debug\netcoreapp3.1\Área de un circulo.genruntimeconfig.cache

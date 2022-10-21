@@ -1,0 +1,13 @@
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.exe
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.deps.json
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.runtimeconfig.json
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.runtimeconfig.dev.json
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.dll
+D:\PRG\1º\Practicas\numerorandom\numerorandom\bin\Debug\netcoreapp3.1\numerorandom.pdb
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.AssemblyInfoInputs.cache
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.AssemblyInfo.cs
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.csproj.CoreCompileInputs.cache
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.dll
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.pdb
+D:\PRG\1º\Practicas\numerorandom\numerorandom\obj\Debug\netcoreapp3.1\numerorandom.genruntimeconfig.cache

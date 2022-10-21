@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\bin\Debug\netcoreapp3.1\05_Multiplos.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Multiplos\05_Multiplos\obj\Debug\netcoreapp3.1\05_Multiplos.genruntimeconfig.cache

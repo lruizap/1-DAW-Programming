@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\bin\Debug\net6.0-windows\07_Mini-Agenda.exe
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\bin\Debug\net6.0-windows\07_Mini-Agenda.deps.json
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\bin\Debug\net6.0-windows\07_Mini-Agenda.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\bin\Debug\net6.0-windows\07_Mini-Agenda.dll
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\bin\Debug\net6.0-windows\07_Mini-Agenda.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\_07_Mini_Agenda.Form1.resources
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.dll
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\refint\07_Mini-Agenda.dll
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\07_Mini-Agenda.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\13_Visual\07_Mini-Agenda\07_Mini-Agenda\obj\Debug\net6.0-windows\ref\07_Mini-Agenda.dll

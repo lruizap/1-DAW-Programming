@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.exe
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.deps.json
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.runtimeconfig.json
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.dll
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\bin\Debug\netcoreapp3.1\EJ1_Lucas.pdb
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.AssemblyInfo.cs
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.dll
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.pdb
+H:\PRG\1º\Practicas\EXÁMENES\EX_02\EJ1_Lucas\EJ1_Lucas\obj\Debug\netcoreapp3.1\EJ1_Lucas.genruntimeconfig.cache

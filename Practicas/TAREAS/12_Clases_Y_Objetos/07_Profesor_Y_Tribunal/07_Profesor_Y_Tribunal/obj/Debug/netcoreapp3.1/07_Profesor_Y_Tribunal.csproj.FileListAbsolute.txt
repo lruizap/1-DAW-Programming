@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.exe
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.deps.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.runtimeconfig.dev.json
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\bin\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.dll
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.pdb
+H:\PRG\Practicas\TAREAS\12_Clases_Y_Objetos\07_Profesor_Y_Tribunal\07_Profesor_Y_Tribunal\obj\Debug\netcoreapp3.1\07_Profesor_Y_Tribunal.genruntimeconfig.cache

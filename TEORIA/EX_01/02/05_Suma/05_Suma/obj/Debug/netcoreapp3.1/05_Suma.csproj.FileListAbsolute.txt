@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\bin\Debug\netcoreapp3.1\05_Suma.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\05_Suma\05_Suma\obj\Debug\netcoreapp3.1\05_Suma.genruntimeconfig.cache

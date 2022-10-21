@@ -1,0 +1,13 @@
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.exe
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.deps.json
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.dll
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\bin\Debug\netcoreapp3.1\09_cadena.pdb
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.dll
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.pdb
+H:\PRG\1º\Practicas\TEORIA\04\09_cadena\09_cadena\obj\Debug\netcoreapp3.1\09_cadena.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.exe
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.deps.json
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.runtimeconfig.json
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.runtimeconfig.dev.json
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.dll
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\bin\Debug\netcoreapp3.1\02_menú.pdb
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.csproj.AssemblyReference.cache
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.AssemblyInfoInputs.cache
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.AssemblyInfo.cs
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.csproj.CoreCompileInputs.cache
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.dll
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.pdb
+H:\PRG\1º\Practicas\TEORIA\EX_02\02_menú\02_menú\obj\Debug\netcoreapp3.1\02_menú.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Par o Impar/1.0.0": {
+        "runtime": {
+          "Par o Impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Par o Impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

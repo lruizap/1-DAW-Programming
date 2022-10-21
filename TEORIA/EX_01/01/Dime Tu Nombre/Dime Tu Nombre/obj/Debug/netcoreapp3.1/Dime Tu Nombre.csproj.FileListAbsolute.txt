@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\bin\Debug\netcoreapp3.1\Dime Tu Nombre.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\Dime Tu Nombre\Dime Tu Nombre\obj\Debug\netcoreapp3.1\Dime Tu Nombre.genruntimeconfig.cache

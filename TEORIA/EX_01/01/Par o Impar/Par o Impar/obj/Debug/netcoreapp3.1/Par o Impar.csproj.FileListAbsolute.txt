@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.exe
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.deps.json
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.runtimeconfig.json
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.dll
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\bin\Debug\netcoreapp3.1\Par o Impar.pdb
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.dll
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.pdb
+C:\Users\Lucas\source\repos\Par o Impar\Par o Impar\obj\Debug\netcoreapp3.1\Par o Impar.genruntimeconfig.cache

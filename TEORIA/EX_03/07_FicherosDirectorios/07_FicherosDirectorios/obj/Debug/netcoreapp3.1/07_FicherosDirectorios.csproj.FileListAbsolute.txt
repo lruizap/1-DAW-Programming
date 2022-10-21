@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.exe
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.deps.json
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.dll
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\bin\Debug\netcoreapp3.1\07_FicherosDirectorios.pdb
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.dll
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.pdb
+H:\PRG\Practicas\TEORIA\EX_03\07_FicherosDirectorios\07_FicherosDirectorios\obj\Debug\netcoreapp3.1\07_FicherosDirectorios.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.exe
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.deps.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.dll
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\bin\Debug\netcoreapp3.1\01_Clases.pdb
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.dll
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.pdb
+H:\PRG\Practicas\TEORIA\EX_04\01_Clases\01_Clases\obj\Debug\netcoreapp3.1\01_Clases.genruntimeconfig.cache

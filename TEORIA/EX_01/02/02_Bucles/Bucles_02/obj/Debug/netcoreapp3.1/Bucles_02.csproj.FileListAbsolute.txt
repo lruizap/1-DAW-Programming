@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\bin\Debug\netcoreapp3.1\Bucles_02.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TEORIA\02\Bucles_02\Bucles_02\obj\Debug\netcoreapp3.1\Bucles_02.genruntimeconfig.cache

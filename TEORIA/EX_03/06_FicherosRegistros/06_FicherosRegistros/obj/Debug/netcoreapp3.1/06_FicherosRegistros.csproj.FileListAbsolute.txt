@@ -1,0 +1,14 @@
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.exe
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.deps.json
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.runtimeconfig.json
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.runtimeconfig.dev.json
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.dll
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\bin\Debug\netcoreapp3.1\06_FicherosRegistros.pdb
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.AssemblyInfo.cs
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.dll
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.pdb
+H:\PRG\Practicas\TEORIA\EX_03\06_FicherosRegistros\06_FicherosRegistros\obj\Debug\netcoreapp3.1\06_FicherosRegistros.genruntimeconfig.cache

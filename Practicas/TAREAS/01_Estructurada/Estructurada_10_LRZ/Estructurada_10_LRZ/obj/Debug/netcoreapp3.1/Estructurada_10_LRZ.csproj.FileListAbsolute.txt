@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.exe
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.deps.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.runtimeconfig.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\bin\Debug\netcoreapp3.1\Estructurada_10_LRZ.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.dll
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.pdb
+C:\Users\Lucas\Desktop\DAW1\PRG\1º\Practicas\TAREAS\Estructurada_10_LRZ\Estructurada_10_LRZ\obj\Debug\netcoreapp3.1\Estructurada_10_LRZ.genruntimeconfig.cache

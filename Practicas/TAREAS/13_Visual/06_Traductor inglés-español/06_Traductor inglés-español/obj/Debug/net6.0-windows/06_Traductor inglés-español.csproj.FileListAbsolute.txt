@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\bin\Debug\net6.0-windows\06_Traductor inglés-español.exe
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\bin\Debug\net6.0-windows\06_Traductor inglés-español.deps.json
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\bin\Debug\net6.0-windows\06_Traductor inglés-español.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\bin\Debug\net6.0-windows\06_Traductor inglés-español.dll
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\bin\Debug\net6.0-windows\06_Traductor inglés-español.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\_06_Traductor_inglés_español.Traductor.resources
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.dll
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\refint\06_Traductor inglés-español.dll
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.pdb
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\06_Traductor inglés-español.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\13_Visual\06_Traductor inglés-español\06_Traductor inglés-español\obj\Debug\net6.0-windows\ref\06_Traductor inglés-español.dll

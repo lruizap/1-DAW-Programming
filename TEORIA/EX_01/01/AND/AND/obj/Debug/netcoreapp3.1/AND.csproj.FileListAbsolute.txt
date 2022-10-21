@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.exe
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.deps.json
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.runtimeconfig.json
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.dll
+C:\Users\Lucas\source\repos\AND\AND\bin\Debug\netcoreapp3.1\AND.pdb
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.dll
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.pdb
+C:\Users\Lucas\source\repos\AND\AND\obj\Debug\netcoreapp3.1\AND.genruntimeconfig.cache

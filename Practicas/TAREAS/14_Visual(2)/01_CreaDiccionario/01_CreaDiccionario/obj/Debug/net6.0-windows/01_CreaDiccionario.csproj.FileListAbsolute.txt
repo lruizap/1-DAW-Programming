@@ -1,0 +1,17 @@
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\bin\Debug\net6.0-windows\01_CreaDiccionario.exe
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\bin\Debug\net6.0-windows\01_CreaDiccionario.deps.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\bin\Debug\net6.0-windows\01_CreaDiccionario.runtimeconfig.json
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\bin\Debug\net6.0-windows\01_CreaDiccionario.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\bin\Debug\net6.0-windows\01_CreaDiccionario.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.csproj.AssemblyReference.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\_01_CreaDiccionario.Form1.resources
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.csproj.GenerateResource.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.AssemblyInfoInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.AssemblyInfo.cs
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.csproj.CoreCompileInputs.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\refint\01_CreaDiccionario.dll
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.pdb
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\01_CreaDiccionario.genruntimeconfig.cache
+H:\PRG\Practicas\TAREAS\14_Visual(2)\01_CreaDiccionario\01_CreaDiccionario\obj\Debug\net6.0-windows\ref\01_CreaDiccionario.dll

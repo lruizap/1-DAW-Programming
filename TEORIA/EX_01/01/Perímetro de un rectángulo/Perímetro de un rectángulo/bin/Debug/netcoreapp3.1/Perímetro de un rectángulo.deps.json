@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Perímetro de un rectángulo/1.0.0": {
+        "runtime": {
+          "Perímetro de un rectángulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perímetro de un rectángulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
